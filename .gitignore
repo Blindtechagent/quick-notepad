@@ -1,0 +1,22 @@
+# PyInstaller output and build configuration
+/build/
+/dist/
+/quick_notepad.spec
+
+# Python-generated files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Tool and OS-generated files
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+*.log
+.DS_Store
+Thumbs.db
